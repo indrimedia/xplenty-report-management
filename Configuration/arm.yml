@@ -1,0 +1,22 @@
+aws:
+    key: fillin
+    secret: fillin
+redshift:
+    default:
+        host: hostname
+        port: 5439
+        user: username
+        password: password
+        database: database
+defaultCommission: 15
+xplenty:
+  apiKey: apikey
+  baseURL: https://api.xplenty.com/
+  xplentyAccountId: accountId
+  templatePackages:
+    adwords: 0
+    bing: 0
+    ganalytics: 0
+    facebook: 0
+    tradedesk: 0
+  facebookToken: token
